@@ -1,3 +1,12 @@
+
+### `Deployment`
+The application is deployed and can be accessed using the following link: https://algobulls-neon.vercel.app/
+
+For the login page specifically, use the following link: https://algobulls-neon.vercel.app/login
+
+
+
+
 In the project directory, you can run:
 
 ### `npm install`
@@ -29,15 +38,6 @@ npm install
 # Start the development server
 npm start
 This will run the app in development mode. Open http://localhost:3000 in your browser to view the application. The page will automatically reload when you make changes, and any lint errors will be displayed in the console.
-
-
-
-
-### `Deployment`
-The application is deployed and can be accessed using the following link: https://algobulls-neon.vercel.app/
-
-For the login page specifically, use the following link: https://algobulls-neon.vercel.app/login
-
 
 
 
